@@ -1,31 +1,42 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-### shop-web
-
-```markdown
 # Shop Web
 
-A shopping web app built with React, Vite and Tailwind CSS.
+Shop Web is a responsive shopping website built with React and Vite.
+
+This project focuses on frontend development, reusable components, product UI, routing, and responsive design.
 
 ## Tech Stack
-- React 18, Vite, Tailwind CSS
-- React Router DOM
-- React Toastify
+
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+- React Router
+
+## Features
+
+- Product listing UI
+- Shopping website layout
+- Responsive design
+- Reusable React components
+- Client-side routing
+- Clean frontend structure
 
 ## Getting Started
 
 ```bash
-git clone https://github.com/Mino1826/shop-web.git
-cd shop-web
 npm install
 npm run dev
-Runs on http://localhost:5173
+
+What I Learned
+
+* Building React frontend projects
+* Creating reusable components
+* Using Vite for fast development
+* Styling with Tailwind CSS
+* Structuring a frontend project
+
+Repository
+
+https://github.com/Mino1826/shop-web
 
 
